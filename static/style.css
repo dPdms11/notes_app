@@ -1,0 +1,23 @@
+.date {
+    color: #808080;
+    font-size: 15px;
+}
+
+em {
+    color: #808080;
+}
+
+.list-group-item {
+    height: 60px;
+    overflow: hidden;
+}
+
+#notes_list {
+    overflow-y: auto;
+    max-height: 500px;
+}
+
+
+#title {
+    font-weight: bold;
+}
